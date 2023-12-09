@@ -16,7 +16,7 @@ Desafio de projeto do Bootcamp Santander Cibersegurança
     -Método de ataque: Site Cloner
     -URL para clone: http://www.facebook.com
     
-## Ao repoduzuir esses passos de forma mal intencionada é um CRIME
+## Ao repoduzuir esses passos de forma mal intencionada é considerado CRIME.
 # Resutados
 
 ![2023-12-09_12h14_02](https://github.com/Luizbressani/cibersecurity-desafio-phishing/assets/91733688/a9e0f026-d2e5-4af6-88b1-28fc7454a060)
